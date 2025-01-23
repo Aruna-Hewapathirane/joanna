@@ -36,7 +36,7 @@ var
   i: Integer;
 begin
   // Set grid options
-  StringGrid1.RowCount := 101;  // Total rows (including header row)
+  StringGrid1.RowCount := 102;  // Total rows (including header row)
   StringGrid1.ColCount := 4;    // 4 columns: Row (Number), Name, Location, Flag
 
 
@@ -163,11 +163,12 @@ begin
   StringGrid1.Cells[1, 93] := 'Xemiru'; StringGrid1.Cells[2, 93] := 'Germany'; StringGrid1.Cells[3, 93] := '🇩🇪';
   StringGrid1.Cells[1, 94] := 'Xenzh'; StringGrid1.Cells[2, 94] := 'Germany'; StringGrid1.Cells[3, 94] := '🇩🇪';
   StringGrid1.Cells[1, 95] := 'Yassir'; StringGrid1.Cells[2, 95] := 'Birmingham, England, United Kingdom'; StringGrid1.Cells[3, 95] := '🇬🇧';
-  StringGrid1.Cells[1, 96] := 'Zeck'; StringGrid1.Cells[2, 96] := ''; StringGrid1.Cells[3, 96] := '';
-  StringGrid1.Cells[1, 97] := 'zero'; StringGrid1.Cells[2, 97] := 'France'; StringGrid1.Cells[3, 97] := '🇫🇷';
-  StringGrid1.Cells[1, 98] := 'Zoro'; StringGrid1.Cells[2, 98] := ''; StringGrid1.Cells[3, 98] := '';
-  StringGrid1.Cells[1, 99] := 'ztm'; StringGrid1.Cells[2, 99] := ''; StringGrid1.Cells[3, 99] := '';
-  StringGrid1.Cells[1, 100] := 'zz'; StringGrid1.Cells[2, 100] := ''; StringGrid1.Cells[3, 100] := '';
+  StringGrid1.Cells[1, 96] := 'Zaher'; StringGrid1.Cells[2, 96] := 'Syria'; StringGrid1.Cells[3, 96] := '🇸🇾';
+  StringGrid1.Cells[1, 97] := 'Zeck'; StringGrid1.Cells[2, 97] := ''; StringGrid1.Cells[3, 97] := '';
+  StringGrid1.Cells[1, 98] := 'zero'; StringGrid1.Cells[2, 98] := 'France'; StringGrid1.Cells[3, 98] := '🇫🇷';
+  StringGrid1.Cells[1, 99] := 'Zoro'; StringGrid1.Cells[2, 98] := ''; StringGrid1.Cells[3, 98] := '';
+  StringGrid1.Cells[1, 100] := 'ztm'; StringGrid1.Cells[2, 100] := ''; StringGrid1.Cells[3, 100] := '';
+  StringGrid1.Cells[1, 101] := 'zz'; StringGrid1.Cells[2, 101] := ''; StringGrid1.Cells[3, 101] := '';
 
   // Initialize sorting state
   FSortAscending:=True;
@@ -218,4 +219,3 @@ end;
 
 
 end.
-
