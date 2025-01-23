@@ -68,14 +68,14 @@ begin
   end;
 
   // Manually add data for all rows
-  StringGrid1.Cells[1, 1] := 'adhoc'; StringGrid1.Cells[2, 1] := ''; StringGrid1.Cells[3, 1] := '';
+  StringGrid1.Cells[1, 1] := 'adhoc'; StringGrid1.Cells[2, 1] := 'Austrailia'; StringGrid1.Cells[3, 1] := '🇦🇺';
   StringGrid1.Cells[1, 2] := 'antranigv'; StringGrid1.Cells[2, 2] := 'Armenia'; StringGrid1.Cells[3, 2] := '🇦🇲';
   StringGrid1.Cells[1, 3] := 'artmdl'; StringGrid1.Cells[2, 3] := 'British Columbia, Canada'; StringGrid1.Cells[3, 3] := '🇨🇦';
   StringGrid1.Cells[1, 4] := 'aruna'; StringGrid1.Cells[2, 4] := 'Ontario, Canada'; StringGrid1.Cells[3, 4] := '🇨🇦';
   StringGrid1.Cells[1, 5] := 'bbrtj'; StringGrid1.Cells[2, 5] := 'Warsaw, Mazovia, Poland'; StringGrid1.Cells[3, 5] := '🇵🇱';
   StringGrid1.Cells[1, 6] := 'beastie'; StringGrid1.Cells[2, 6] := 'Luis'; StringGrid1.Cells[3, 6] := '';
-  StringGrid1.Cells[1, 7] := 'bedah'; StringGrid1.Cells[2, 7] := ''; StringGrid1.Cells[3, 7] := '';
-  StringGrid1.Cells[1, 8] := 'Bogen85'; StringGrid1.Cells[2, 8] := ''; StringGrid1.Cells[3, 8] := '';
+  StringGrid1.Cells[1, 7] := 'bedah'; StringGrid1.Cells[2, 7] := 'Syria'; StringGrid1.Cells[3, 7] := '🇸🇾';
+  StringGrid1.Cells[1, 8] := 'Bogen85'; StringGrid1.Cells[2, 8] := 'United States'; StringGrid1.Cells[3, 8] := '🇺🇸';
   StringGrid1.Cells[1, 9] := 'bput'; StringGrid1.Cells[2, 9] := ''; StringGrid1.Cells[3, 9] := '';
   StringGrid1.Cells[1, 10] := 'cdbc'; StringGrid1.Cells[2, 10] := 'Denmark'; StringGrid1.Cells[3, 10] := '🇩🇰';
   StringGrid1.Cells[1, 11] := 'Chain|Q'; StringGrid1.Cells[2, 11] := 'Germany'; StringGrid1.Cells[3, 11] := '🇩🇪';
@@ -96,7 +96,7 @@ begin
   StringGrid1.Cells[1, 26] := 'gerard42'; StringGrid1.Cells[2, 26] := ''; StringGrid1.Cells[3, 26] := '';
   StringGrid1.Cells[1, 27] := 'Giantm'; StringGrid1.Cells[2, 27] := 'Netherlands'; StringGrid1.Cells[3, 27] := '🇳🇱';
   StringGrid1.Cells[1, 28] := 'Ginoooo'; StringGrid1.Cells[2, 28] := 'Italy'; StringGrid1.Cells[3, 28] := '🇮🇹';
-  StringGrid1.Cells[1, 29] := 'GPF_PRO'; StringGrid1.Cells[2, 29] := ''; StringGrid1.Cells[3, 29] := '';
+  StringGrid1.Cells[1, 29] := 'GPF_PRO'; StringGrid1.Cells[2, 29] := 'United States'; StringGrid1.Cells[3, 29] := '🇺🇸';
   StringGrid1.Cells[1, 30] := 'GreaseMonkey'; StringGrid1.Cells[2, 30] := ''; StringGrid1.Cells[3, 30] := '';
   StringGrid1.Cells[1, 31] := 'henesy'; StringGrid1.Cells[2, 31] := 'Amsterdam, Netherlands'; StringGrid1.Cells[3, 31] := '🇳🇱';
   StringGrid1.Cells[1, 32] := 'hinst'; StringGrid1.Cells[2, 32] := 'Leipzig, Saxony, Germany'; StringGrid1.Cells[3, 32] := '🇩🇪';
@@ -107,8 +107,8 @@ begin
   StringGrid1.Cells[1, 37] := 'JimBuntu'; StringGrid1.Cells[2, 37] := 'United States'; StringGrid1.Cells[3, 37] := '🇺🇸';
   StringGrid1.Cells[1, 38] := 'jns'; StringGrid1.Cells[2, 38] := 'United States'; StringGrid1.Cells[3, 38] := '🇺🇸';
   StringGrid1.Cells[1, 39] := 'Joanna'; StringGrid1.Cells[2, 39] := ''; StringGrid1.Cells[3, 39] := '';
-  StringGrid1.Cells[1, 40] := 'Jonax'; StringGrid1.Cells[2, 40] := ''; StringGrid1.Cells[3, 40] := '';
-  StringGrid1.Cells[1, 41] := 'Otilsen70'; StringGrid1.Cells[2, 41] := ''; StringGrid1.Cells[3, 41] := '';
+  StringGrid1.Cells[1, 40] := 'Jonax'; StringGrid1.Cells[2, 40] := 'Sweden'; StringGrid1.Cells[3, 40] := '🇸🇪';
+  StringGrid1.Cells[1, 41] := 'Otilsen70'; StringGrid1.Cells[2, 41] := 'Sweden'; StringGrid1.Cells[3, 41] := '🇸🇪';
   StringGrid1.Cells[1, 42] := 'julienxx'; StringGrid1.Cells[2, 42] := 'Falkenstein, Saxony, Germany'; StringGrid1.Cells[3, 42] := '🇩🇪';
   StringGrid1.Cells[1, 43] := 'key-real'; StringGrid1.Cells[2, 43] := 'Germany'; StringGrid1.Cells[3, 43] := '🇩🇪';
   StringGrid1.Cells[1, 44] := 'klys'; StringGrid1.Cells[2, 44] := ''; StringGrid1.Cells[3, 44] := '';
@@ -130,7 +130,7 @@ begin
   StringGrid1.Cells[1, 60] := 'nil78'; StringGrid1.Cells[2, 60] := 'Shanghai, China'; StringGrid1.Cells[3, 60] := '🇨🇳';
   StringGrid1.Cells[1, 61] := 'NiunioMartinez'; StringGrid1.Cells[2, 61] := ''; StringGrid1.Cells[3, 61] := '';
   StringGrid1.Cells[1, 62] := 'nmz'; StringGrid1.Cells[2, 62] := 'Ostend, Flanders, Belgium'; StringGrid1.Cells[3, 62] := '🇧🇪';
-  StringGrid1.Cells[1, 63] := 'otisolsen70'; StringGrid1.Cells[2, 63] := ''; StringGrid1.Cells[3, 63] := '';
+  StringGrid1.Cells[1, 63] := 'otisolsen70'; StringGrid1.Cells[2, 63] := 'Sweden'; StringGrid1.Cells[3, 63] := '🇸🇪';
   StringGrid1.Cells[1, 64] := 'pabs3'; StringGrid1.Cells[2, 64] := '[ Paul Wise https://bonedaddy.net/pabs3/]'; StringGrid1.Cells[3, 64] := '';
   StringGrid1.Cells[1, 65] := 'paule32'; StringGrid1.Cells[2, 65] := 'Germany'; StringGrid1.Cells[3, 65] := '🇩🇪';
   StringGrid1.Cells[1, 66] := 'paweld'; StringGrid1.Cells[2, 66] := 'Poland'; StringGrid1.Cells[3, 66] := '🇵🇱';
