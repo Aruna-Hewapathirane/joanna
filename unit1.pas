@@ -124,7 +124,7 @@ begin
   StringGrid1.Cells[1, 54] := 'Moody'; StringGrid1.Cells[2, 54] := '[ (~thomas@linuxfromscratch/editor/Moody): ThomasT]'; StringGrid1.Cells[3, 54] := '';
   StringGrid1.Cells[1, 55] := 'myrkraverk'; StringGrid1.Cells[2, 55] := 'Iceland & Philippines: '; StringGrid1.Cells[3, 55] := '🇮🇸 🇵🇭';
   StringGrid1.Cells[1, 56] := 'nedko'; StringGrid1.Cells[2, 56] := '[ Nedko Arnaudov (LZ1ERT)]'; StringGrid1.Cells[3, 56] := '🇧🇬';
-  StringGrid1.Cells[1, 57] := 'neoncortex'; StringGrid1.Cells[2, 57] := ''; StringGrid1.Cells[3, 57] := '';
+  StringGrid1.Cells[1, 57] := 'neoncortex'; StringGrid1.Cells[2, 57] := 'Brazil'; StringGrid1.Cells[3, 57] := '🇧🇷';
   StringGrid1.Cells[1, 58] := 'nickysn'; StringGrid1.Cells[2, 58] := 'Sofia, Bulgaria'; StringGrid1.Cells[3, 58] := '🇧🇬';
   StringGrid1.Cells[1, 59] := 'nielsAD'; StringGrid1.Cells[2, 59] := ''; StringGrid1.Cells[3, 59] := '';
   StringGrid1.Cells[1, 60] := 'nil78'; StringGrid1.Cells[2, 60] := 'Shanghai, China'; StringGrid1.Cells[3, 60] := '🇨🇳';
