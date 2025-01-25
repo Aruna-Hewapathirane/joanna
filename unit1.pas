@@ -106,7 +106,7 @@ begin
   StringGrid1.Cells[1,35] := 'Handoko';    StringGrid1.Cells[2,35] := 'Indonesia';                          StringGrid1.Cells[3,35] := '🇮🇩';
   StringGrid1.Cells[1,36] := 'henesy';     StringGrid1.Cells[2,36] := 'Amsterdam, Netherland';              StringGrid1.Cells[3,36] := '🇳🇱';
   StringGrid1.Cells[1,37] := 'hinst';      StringGrid1.Cells[2,37] := 'Leipzig, Saxony, Germany';           StringGrid1.Cells[3,37] := '🇩🇪';
-  StringGrid1.Cells[1,38] := 'HyperKoos';  StringGrid1.Cells[2,38] := '';                                   StringGrid1.Cells[3,38] := '';
+  StringGrid1.Cells[1,38] := 'HyperKoos';  StringGrid1.Cells[2,38] := 'South Africa';                       StringGrid1.Cells[3,38] := '🇿🇦';
   StringGrid1.Cells[1,39] := 'inky';       StringGrid1.Cells[2,39] := 'Armenia';                            StringGrid1.Cells[3,39] := '🇦🇲';
 
   StringGrid1.Cells[1,40] := 'iz';            StringGrid1.Cells[2,40] := '';                                     StringGrid1.Cells[3,40] := '';
@@ -123,9 +123,9 @@ begin
   StringGrid1.Cells[1,51] := 'lainz';         StringGrid1.Cells[2,51] := 'Brazil';                               StringGrid1.Cells[3,51] := '🇧🇷';
   StringGrid1.Cells[1,52] := 'larr0t';        StringGrid1.Cells[2,52] := '';                                     StringGrid1.Cells[3,52] := '';
   StringGrid1.Cells[1,53] := 'lotuspsychje';  StringGrid1.Cells[2,53] := 'Belgium';                              StringGrid1.Cells[3,53] := '🇧🇪';
-  StringGrid1.Cells[1,54] := 'luca0N';        StringGrid1.Cells[2,54] := '';                                     StringGrid1.Cells[3,54] := '';
+  StringGrid1.Cells[1,54] := 'luca0N';        StringGrid1.Cells[2,54] := 'United States';                        StringGrid1.Cells[3,54] := '🇺🇸';
   StringGrid1.Cells[1,55] := 'ludo';          StringGrid1.Cells[2,55] := 'South Africa';                         StringGrid1.Cells[3,55] := '🇿🇦';
-  StringGrid1.Cells[1,56] := 'ManuelSantana'; StringGrid1.Cells[2,56] := '';                                     StringGrid1.Cells[3,56] := '';
+  StringGrid1.Cells[1,56] := 'ManuelSantana'; StringGrid1.Cells[2,56] := 'Dominican Republic';                   StringGrid1.Cells[3,56] := '🇩🇴';
   StringGrid1.Cells[1,57] := 'Mintle';        StringGrid1.Cells[2,57] := '';                                     StringGrid1.Cells[3,57] := '';
   StringGrid1.Cells[1,58] := 'M-M_Exp_in_Low_O'; StringGrid1.Cells[2,58] := '';                                  StringGrid1.Cells[3,58] := '';
   StringGrid1.Cells[1,59] := 'Moody';         StringGrid1.Cells[2,59] := '';                                     StringGrid1.Cells[3,59] := '';
@@ -167,7 +167,7 @@ begin
   StringGrid1.Cells[1,92] := 'silvercoder';      StringGrid1.Cells[2,92] := 'Austrailia';                           StringGrid1.Cells[3,92] := '🇦🇺';
   StringGrid1.Cells[1,93] := 'skrzyp';           StringGrid1.Cells[2,93] := '';                                     StringGrid1.Cells[3,93] := '';
   StringGrid1.Cells[1,94] := 'Solak';            StringGrid1.Cells[2,94] := '';                                     StringGrid1.Cells[3,94] := '';
-  StringGrid1.Cells[1,95] := 'spinningCat';      StringGrid1.Cells[2,95] := '';                                     StringGrid1.Cells[3,95] := '';
+  StringGrid1.Cells[1,95] := 'spinningCat';      StringGrid1.Cells[2,95] := 'Turkey';                               StringGrid1.Cells[3,95] := '🇹🇷';
   StringGrid1.Cells[1,96] := 'stanrifkin';       StringGrid1.Cells[2,96] := '';                                     StringGrid1.Cells[3,96] := '';
   StringGrid1.Cells[1,97] := 'T0tr0X';           StringGrid1.Cells[2,97] := '';                                     StringGrid1.Cells[3,97] := '';
   StringGrid1.Cells[1,98] := 't0xicity';         StringGrid1.Cells[2,98] := '';                                     StringGrid1.Cells[3,98] := '';
@@ -191,7 +191,7 @@ begin
    StringGrid1.Cells[1,113] := 'wizzwizz4';          StringGrid1.Cells[2,113] := 'United Kingdom';                       StringGrid1.Cells[3,113] := '🇬🇧';
    StringGrid1.Cells[1,114] := 'Wolfox';             StringGrid1.Cells[2,114] := '';                                     StringGrid1.Cells[3,114] := '';
    StringGrid1.Cells[1,115] := 'Wormnest';           StringGrid1.Cells[2,115] := 'United States';                        StringGrid1.Cells[3,115] := '🇺🇸';
-   StringGrid1.Cells[1,116] := 'xardomain';          StringGrid1.Cells[2,116] := '';                                     StringGrid1.Cells[3,116] := '';
+   StringGrid1.Cells[1,116] := 'xardomain';          StringGrid1.Cells[2,116] := 'Italy';                                StringGrid1.Cells[3,116] := '🇮🇹';
    StringGrid1.Cells[1,117] := 'Xemiru';             StringGrid1.Cells[2,117] := 'Germany';                              StringGrid1.Cells[3,117] := '🇩🇪';
    StringGrid1.Cells[1,118] := 'Xenzh';              StringGrid1.Cells[2,118] := 'Germany';                              StringGrid1.Cells[3,118] := '🇩🇪';
    StringGrid1.Cells[1,119] := 'Yassir';             StringGrid1.Cells[2,119] := 'Birmingham, England, United Kingdom';  StringGrid1.Cells[3,119] := '🇬🇧';
